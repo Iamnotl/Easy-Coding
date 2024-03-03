@@ -15,3 +15,10 @@ Ensure that PyQt6 library is installed. You can install it using the following c
 ```bash
 pip install PyQt6==[6.5.2]
 Special thanks to the PyQt6 development team for providing this powerful GUI framework!
+
+Third-party Tools and Libraries
+
+This project utilizes Ruff tool for syntax checking.
+
+- Ruff Version: 0.1.6
+- Official Link: [Ruff GitHub Repository](https://github.com/ruffjs/ruff)
